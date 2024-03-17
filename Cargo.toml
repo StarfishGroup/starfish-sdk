@@ -7,6 +7,7 @@ repository = "https://github.com/StarfishGroup/starfish-sdk"
 homepage = "https://github.com/StarfishGroup/starfish-sdk"
 description = "海星SDK"
 readme = "README.md"
+exclude = [".vscode"]
 
 # async
 [dependencies.tokio]
